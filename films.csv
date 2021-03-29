@@ -1,0 +1,70 @@
+age,gender,genre
+3,1,cartoon
+4,1,cartoon
+6,1,cartoon
+7,1,educational
+9,1,educational
+11,1,educational
+12,1,comedy
+15,1,comedy
+17,1,comedy
+18,1,action
+19,1,action
+21,1,action
+22,1,romanance
+25,1,romanance
+26,1,romanance
+27,1,science
+29,1,science
+31,1,science
+32,1,military
+33,1,military
+36,1,military
+37,1,drama
+40,1,drama
+42,1,drama
+43,1,crime
+45,1,crime
+48,1,crime
+50,1,historical
+55,1,historical
+60,1,historical
+61,1,religious
+70,1,religious
+80,1,religious
+3,0,cartoon
+5,0,cartoon
+6,0,cartoon
+7,0,cultural
+9,0,cultural
+11,0,cultural
+12,0,drama
+15,0,drama
+17,0,drama
+18,0,romanance
+20,0,romanance
+21,0,romanance
+22,0,horror
+25,0,horror
+27,0,horror
+28,0,mystery
+30,0,mystery
+32,0,mystery
+33,0,melodrama
+35,0,melodrama
+38,0,melodrama
+39,0,silent
+41,0,silent
+43,0,silent
+44,0,romantic comedy
+46,0,romantic comedy
+48,0,romantic comedy
+50,0,epic
+51,0,epic
+54,0,epic
+55,0,matrial arts
+57,0,matrial arts
+61,0,matrial arts
+70,0,biological
+75,0,biological
+80,0,biological
